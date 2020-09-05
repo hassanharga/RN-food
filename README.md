@@ -1,1 +1,2 @@
-simple React Native for showing food and drinks from yelp.com
+simple React Native app for showing food and drinks from yelp.com
+using expo-cli
