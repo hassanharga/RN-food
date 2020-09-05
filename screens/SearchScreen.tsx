@@ -14,7 +14,7 @@ const SearchScreen = ({ props }: any) => {
         params: {
           term: searchedItem,
           limit: 50,
-          location: 'san jose',
+          location: 'new york',
         },
       });
       setResults(data.data.businesses);

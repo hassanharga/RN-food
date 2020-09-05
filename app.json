@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "simple React Native app for showing food and drinks from yelp.com using expo-cli",
+    "githubUrl": "https://github.com/hassanharga/RN-food"
   }
 }
